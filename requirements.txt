@@ -1,7 +1,7 @@
 pandas
 scikit-learn
 torchvision
-torch (PyTorch)
+PyTorch(torch)
 matplotlib 
 numpy
 tensorflow-cpu
