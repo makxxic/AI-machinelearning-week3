@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+torchvision
+torch (PyTorch)
+matplotlib 
+numpy
+tensorflow-cpu
+streamlit
+streamlit-drawable-canvas
+pillow(PIL)
+spacy
