@@ -1,11 +1,11 @@
 pandas
 scikit-learn
 torchvision
-PyTorch(torch)
+PyTorch
 matplotlib 
 numpy
 tensorflow-cpu
 streamlit
 streamlit-drawable-canvas
-pillow(PIL)
+pillow
 spacy
