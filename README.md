@@ -63,3 +63,8 @@ Identify potential biases in your MNIST or Amazon Reviews model. How could tools
 Buggy Code: A provided TensorFlow script has errors (e.g., dimension mismatches, incorrect loss functions). Debug and fix the code.
 
 Deploy Your Model: Use Streamlit or Flask to create a web interface for your MNIST classifier.
+
+
+Presentation: Create 3-minute video explaining your approach.
+https://www.veed.io/ai-studio/0acf3e20-a71e-4684-8340-bec6615ee552
+
